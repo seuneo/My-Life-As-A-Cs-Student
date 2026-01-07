@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 276dcdf0125357d40b386588f0359cbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effect: {instanceID: 0}
+  - sound: {instanceID: 0}
+  - healthDisplay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
